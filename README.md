@@ -9,5 +9,12 @@
 </head>
 <body>
     <img>https://images7.alphacoders.com/116/1161728.jpg</img>
+    <navs
+    <a><a/>
+    <a><a/>
+    <a><a/>
+    <a><a/>
+    </nav>
+    <main>
 </body>
 </html>
