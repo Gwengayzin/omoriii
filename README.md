@@ -42,7 +42,7 @@
     </section>
   </main>
   <footer class="rodape">
-    <img class="rodape-imagem" src="https://tse1.mm.bing.net/th?id=OIP.u6nlQ5f8b3sVt1GIoeUwsgHaE8&pid=Api&rs=1&c=1&qlt=95&w=145&h=96"&gt;
+    <img class="rodape-imagem" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fcnt_pr%2Fstatus%2F977593052683554817&psig=AOvVaw0ASuKR4UQGVmqlwx8F9ha1&ust=1681917906213000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICfh9zes_4CFQAAAAAdAAAAABAD"&gt;
   </footer>
 </body>
 
