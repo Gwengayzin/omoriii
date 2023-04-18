@@ -42,7 +42,7 @@
     </section>
   </main>
   <footer class="rodape">
-    <img class="rodape-imagem" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fcnt_pr%2Fstatus%2F977593052683554817&psig=AOvVaw0ASuKR4UQGVmqlwx8F9ha1&ust=1681917906213000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICfh9zes_4CFQAAAAAdAAAAABAD"&gt;
+    <img class="rodape-imagem" src="https://www.google.com/search?q=gato+maconheiro&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiX8KvL3rP-AhW4KLkGHXzRAaQQ_AUoAXoECAEQAw&biw=1920&bih=975&dpr=1#imgrc=iTD1L-RVwulboM"&gt;
   </footer>
 </body>
 
